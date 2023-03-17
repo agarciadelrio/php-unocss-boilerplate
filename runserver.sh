@@ -1,0 +1,1 @@
+php -S 0.0.0.0:8008 -t app app/server.php & ./bs.sh

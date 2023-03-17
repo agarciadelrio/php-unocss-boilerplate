@@ -1,0 +1,1 @@
+browser-sync http://0.0.0.0:8008 -w -f . --host=appgen.localhost --open=external

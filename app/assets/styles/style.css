@@ -1,0 +1,12 @@
+[un-cloak] {
+  display: none;
+}
+body {
+  background-color: var(--body-bg);
+  color: var(--body-cl);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+dialog::backdrop {
+  background-color: hsla(0, 0%, 0%, 0.6);
+}
